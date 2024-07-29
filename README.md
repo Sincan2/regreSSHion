@@ -1,7 +1,3 @@
-Berikut adalah contoh README yang menarik untuk proyek GitHub Anda:
-
----
-
 # Auto SSH Exploit Script
 
 This script is designed to automatically exploit SSH vulnerabilities by scanning a block of IP addresses. Once a vulnerable IP is found, it will automatically be exploited.
@@ -25,8 +21,8 @@ This script is designed to automatically exploit SSH vulnerabilities by scanning
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/autosshexploit.git
-cd autosshexploit
+git clone [https://github.com/Sincan2/regreSSHion.git]
+cd regreSSHion
 chmod +x sodok.sh
 ```
 
