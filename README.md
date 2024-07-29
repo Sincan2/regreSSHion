@@ -21,7 +21,7 @@ This script is designed to automatically exploit SSH vulnerabilities by scanning
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/Sincan2/regreSSHion.git]
+git clone https://github.com/Sincan2/regreSSHion.git
 cd regreSSHion
 chmod +x sodok.sh
 ```
