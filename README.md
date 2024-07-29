@@ -59,5 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or support, www.mergosono.my.id.
 
 ---
-
-By following this structure, your README will be informative, easy to read, and provide all the necessary details for users to understand and use your script effectively.
